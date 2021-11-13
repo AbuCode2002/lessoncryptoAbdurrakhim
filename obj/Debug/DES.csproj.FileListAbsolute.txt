@@ -1,0 +1,10 @@
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.Form1.resources
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.Properties.Resources.resources
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.csproj.GenerateResource.cache
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\DES\bin\Debug\DES.exe.config
+C:\Users\UserPC\source\repos\DES\bin\Debug\DES.exe
+C:\Users\UserPC\source\repos\DES\bin\Debug\DES.pdb
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.exe
+C:\Users\UserPC\source\repos\DES\obj\Debug\DES.pdb
